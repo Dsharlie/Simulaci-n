@@ -1,0 +1,4 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0;Clientes.36;Model;10.Output_Proceso_Pago;[Transfer] Transfer4;Error initiating transfer of entity 'Clientes.36'. The entity's current location '[Station] Salida.InputBuffer' is invalid for attempting the specified transfer request.
+0;Clientes.36;Model;10.Output_Proceso_Pago;[Transfer] Transfer4;For possible causes, check whether the 'FromType' property of the Transfer step is misspecified.
+
